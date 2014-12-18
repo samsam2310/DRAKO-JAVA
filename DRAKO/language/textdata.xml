@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>storeToXML</comment>
+<entry key="key3">new value</entry>
+<entry key="key2">中文測試</entry>
+<entry key="key1">更改value1</entry>
+<entry key="ACT_1">砍1</entry>
+<entry key="ACT_2">砍2</entry>
+<entry key="ACT_3">雙砍</entry>
+<entry key="ACT_4">射1</entry>
+<entry key="ACT_5">咬1</entry>
+<entry key="ACT_6">咬2</entry>
+<entry key="ACT_7">咬3</entry>
+<entry key="ACT_8">噴1</entry>
+<entry key="ACT_9">噴2</entry>
+<entry key="ACT_10">走1</entry>
+<entry key="ACT_11">走2</entry>
+<entry key="ACT_12">選種族</entry>
+<entry key="ACT_13">雙走</entry>
+<entry key="ACT_14">網</entry>
+<entry key="ACT_15">解網</entry>
+<entry key="ACT_16">狂爆</entry>
+<entry key="ACT_17">飛</entry>
+<entry key="ACT_18">擋</entry>
+<entry key="ACT_19">猜拳</entry>
+<entry key="ACT_20">取消</entry>
+<entry key="ACT_22">抽牌</entry>
+<entry key="TH_1">弓之矮人</entry>
+<entry key="TH_2">狂戰士</entry>
+<entry key="TH_3">網之矮人</entry>
+<entry key="TH_4">龍之翼</entry>
+<entry key="TH_5">龍之足</entry>
+<entry key="TH_6">龍之焰</entry>
+<entry key="TH_7">龍之心</entry>
+<entry key="TH_8">剪刀</entry>
+<entry key="TH_9">石頭</entry>
+<entry key="TH_10">布</entry>
+<entry key="TH_11"></entry>
+<entry key="TH_12">龍</entry>
+<entry key="TH_13">矮人</entry>
+<entry key="TH_20">取消</entry>
+<entry key="TH_"></entry>
+<entry key="STR_end">END</entry>
+<entry key="STR_start">START</entry>
+
+</properties>
